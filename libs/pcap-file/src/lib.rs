@@ -1,5 +1,3 @@
-#![allow(clippy::unreadable_literal)]
-
 //! Provides parsers, readers and writers for Pcap and PcapNg files.
 //!
 //! For Pcap files see the [`pcap`] module, especially [`PcapParser`](pcap::PcapParser),
